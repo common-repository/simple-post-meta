@@ -1,0 +1,12 @@
+.spm_data code { overflow-wrap: break-word; }
+#spm_post_data td { border-right:1px solid rgba(0,0,0,0.06); border-bottom: 1px solid rgba(0,0,0,0.06); padding: 10px; vertical-align: middle; }
+.inner_spm { margin-top: 10px; }
+#spm_post_data { border-spacing: 0; clear: both; margin: 0; width: 100%; border-top:1px solid rgba(0,0,0,0.06); border-left:1px solid rgba(0,0,0,0.06); width: 100%; box-sizing: border-box; color:#000; }
+#spm_post_data .coloum-number { text-align: center; width: 2% }
+#spm_post_data .coloum-name { }
+#spm_post_data .coloum-value { width: 70%; word-break: break-all; s
+}
+#spm_post_data thead { font-weight: 600 }
+#spm_post_data tbody tr.display:nth-child(2n+1) { background-color: #f9f9f9 }
+#spm_post_data tbody tr.none { display: none; }
+#spm_post_data code { line-height: 21px; margin: 0; padding: 3px 5px; }
